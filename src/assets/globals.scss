@@ -1,0 +1,46 @@
+/* TABLE OF CONTENTS */
+/* COLORS */
+/* FONTS */
+/* TRANSITIONS */
+
+
+/* COLORS */
+/* Use http://chir.ag/projects/name-that-color/ to find a color variable name that's closest to the hex value. (See https://davidwalsh.name/sass-color-variables-dont-suck for why.) */
+
+$tree-poppy: #FF9E1B; /* ivanti yellow -- 2018.03 */
+$flamenco: #FF7206; /* ivanti light orange -- 2021.03 */
+$vermilion: #FF4C0C; /* ivanti dark orange -- 2021.06 */
+$scarlet: #FF1515; /* ivanti bright red -- 2021.03 */
+$crimson: #E61226; /* ivanti dark red -- 2021.03 */
+$shiraz: #B60F45; /* ivanti light purple -- 2021.06 */
+$jazzberry-jam: #9F0C54; /* ivanti bright purple -- 2021.03 */
+$cardinal-pink: #810868; /* ivanti neutral purple -- 2021.03 */
+$pigment-indigo: #670678; /* ivanti dark purple -- 2021.03 */
+$jagger: #4E0389; /* ivanti blue pruple -- 2021.03 */
+
+/* monochrome */
+$white: #FFFFFF; /* ivanti white -- 2018.03 */
+$wild-sand: #F4F4F4; /* ivanti background gray -- 2021.03 */
+$silver: #C4C4C4; /* ivanti menu gray -- 2021.03 */
+$silver-chalice: #A6A5A5; /* ivanti footer gray -- 2021.03 */
+$gray: #848182; /* ivanti form gray -- 2021.03 */
+$dove-gray: #666666; /* ivanti icon gray hover -- 2021.03 */
+$tundora: #4B4748; /* ivanti dark gray -- 2021.06 */
+$thunder: #231F20; /* ivanti black callout background -- 2021.06 */
+$black: #000000; /* ivanti black -- 2018.03 */
+$mine-shaft: #333333; /* ivanti default font color -- 2021.03 */
+
+/* FONTS */
+$font-family-faktum: "faktum", "inter";
+$font-family-inter: 'Inter', sans-serif;
+
+/* ANIMATIONS */
+$duration: 500ms;
+
+/* TRANSITIONS */
+$transition: 600ms cubic-bezier(0.175, 0.885, 0.305, 1.080);
+$transition-delay: 600ms cubic-bezier(0.175, 0.885, 0.305, 1.080) 250ms;
+
+//Global Formulate Styles
+@import './form/variables';
+@import './form/inputs';

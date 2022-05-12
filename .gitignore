@@ -1,0 +1,11 @@
+.vs
+*.log
+.cache
+.DS_Store
+src/.temp
+dist
+node_modules
+.env
+.env.*
+bin
+obj

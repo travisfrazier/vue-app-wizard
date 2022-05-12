@@ -1,0 +1,27 @@
+{
+  "name": "partner-app",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@braid/vue-formulate": "^2.5.3",
+    "axios": "^0.26.1",
+    "gridsome": "^0.7.0",
+    "gridsome-plugin-sass-resources-loader": "^0.0.3",
+    "vue-step-progress": "^0.3.7"
+  },
+  "devDependencies": {
+    "sass": "^1.50.1",
+    "sass-loader": "^10.1.1",
+    "style-resources-loader": "^1.5.0"
+  },
+  "resolutions": {
+    "trim-newlines": "^3.0.1",
+    "semver-regex": "^3.1.3",
+    "nth-check": "^2.0.1",
+    "glob-parent": "^5.1.2"
+  }
+}
