@@ -488,39 +488,35 @@ const formData = {
     classifications: [
         {
             value: 417,
-            label: "Alliance Partner",
+            label: "Premium Partner",
         },
         {
             value: 529,
-            label: "Platinum Expert Solution Provider (ESP)",
+            label: "Silver Amature Solution Provider",
         },
         {
             value: 525,
-            label: "Ivanti One Certified Partner",
+            label: "Level Three Certified Partner",
         },
         {
             value: 523,
-            label: "Gold Expert Solution Provider (ESP)",
+            label: "Global Trust Partner",
         },
         {
             value: 524,
-            label: "Ivanti One Partner",
+            label: "Gold Resellers",
         },
         {
             value: 530,
-            label: "Silver Expert Solution Provider (ESP)",
-        },
-        {
-            value: 532,
-            label: "Basic Expert Solution Provider (ESP)",
+            label: "Commitment Solutions Provider",
         },
         {
             value: 5834,
-            label: "Ivanti Resellers",
+            label: "Bronze Resellers",
         },
         {
             value: 528,
-            label: "National Sales Provider (NSP)",
+            label: "Internation Recruitment Provider (IRP)",
         },
         {
             value: 521,
@@ -528,61 +524,33 @@ const formData = {
         },
         {
             value: 526,
-            label: "Managed Service Provider (MSP)",
+            label: "Managed Business Provider (MBP)",
         },
         {
             value: 5844,
-            label: "Supply Chain Basic Reseller",
-        },
-        {
-            value: 5846,
-            label: "Supply Chain Distributor",
-        },
-        {
-            value: 5842,
-            label: "Supply Chain Gold Reseller",
-        },
-        {
-            value: 5845,
-            label: "Supply Chain Manufacturer Reseller",
-        },
-        {
-            value: 5841,
-            label: "Supply Chain Platinum Reseller",
-        },
-        {
-            value: 5843,
-            label: "Supply Chain Silver Reseller",
-        },
-        {
-            value: 12654,
-            label: "Supply Chain Strategic Alliance Partner",
-        },
-        {
-            value: 5847,
-            label: "Supply Chain Systems Integrator",
+            label: "Supply Seller",
         }
     ],
     categories: [
         {
             value: 12410,
-            label: "Discovery",
+            label: "IT Assets",
         },
         {
             value: 14392,
-            label: "Employee Experience",
+            label: "Cyber Security",
         },
         {
             value: 18862,
-            label: "IT Asset Visibility",
+            label: "Sales Team",
         },
         {
             value: 10622,
-            label: "Ivanti Neurons",
+            label: "Management",
         },
         {
             value: 21,
-            label: "Unified Endpoint Management",
+            label: "Global Sales",
         },
         {
             value: 9769,
@@ -590,23 +558,15 @@ const formData = {
         },
         {
             value: 38,
-            label: "Security",
-        },
-        {
-            value: 7138,
-            label: "Unified IT",
+            label: "Regional Security",
         },
         {
             value: 37,
-            label: "Supply Chain",
-        },
-        {
-            value: 9537,
-            label: "Extended Products",
+            label: "Supply and Demand",
         },
         {
             value: 14516,
-            label: "Work Anywhere. Secure Everywhere.",
+            label: "Telecommuting",
         }
     ]
 }

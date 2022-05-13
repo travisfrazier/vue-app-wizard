@@ -4,12 +4,12 @@
       <g-link to="/">
         <g-image
           class="logo"
-          alt="Ivanti Logo"
-          src="https://static.ivanti.com/sites/marketing/media/images/logos/ivanti-logo-red.svg"
+          alt="Logo"
+          src="https://images.unsplash.com/photo-1542903660-eedba2cda473?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
           width="135"
         />
       </g-link>
-      <div class="menu-item"><a href="https://ivanti.com/company/legal" target="_blank"><span>Privacy and Legal</span></a></div>
+      <div class="menu-item"><a href="" target="_blank"><span>Privacy and Legal</span></a></div>
     </div>
   </footer>
 </template>

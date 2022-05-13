@@ -1,23 +1,14 @@
 <template>
   <div class="main-text">
-    <h1>Add your company to Ivanti Partner Finder</h1>
+    <h1>Data Intake Wizard</h1>
     <p>
-      To be listed on Ivanti’s partner finder, the form below needs to be
-      completed in its entirety. Upon submission of the form to be listed on
-      Ivanti’s partner finder – the submission will be routed for approval. The
-      submission through to approval and publication will take a maximum of 5
-      business days.
-    </p>
-
-    <p>
-      This application form to be listed on Ivanti Partner Finder should only be
-      submitted by partners who carry a current Ivanti contract. If you are not
-      yet a partner, please submit your application here.
+      To be added to the Partner Data Intake Wizard, the form below needs to be
+      completed. Upon submission to be added please allow 3 business days for the verification process.
     </p>
 
     <p>
       If you have any questions, contact
-      <a type="email" href="IPN@ivanti.com">IPN@ivanti.com</a>
+      <a type="email">helpmenow@helpmenow.com</a>
     </p>
   </div>
 </template>
