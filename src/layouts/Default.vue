@@ -26,7 +26,7 @@ export default {
     Footer
   },
   metaInfo: {
-    title: "Ivanti",
+    title: "Data Intake Wizard",
   },
 };
 </script>

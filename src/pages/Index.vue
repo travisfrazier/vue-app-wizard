@@ -17,7 +17,7 @@ export default {
     Content
   },
   metaInfo: {
-    title: "Ivanti Partner Intake",
+    title: "Data Intake Wizard",
   },
 };
 </script>
