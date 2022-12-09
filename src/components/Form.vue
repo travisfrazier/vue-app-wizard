@@ -3,14 +3,14 @@
     <FormulateForm class="form" v-model="formValues" #default="{ isValid }">
       <FormulateInput
         name="GlobalName"
-        label="Partner Company Name:"
+        label="Company Name:"
         validation="required"
         validation-name="This field"
         class="required"
       />
       <FormulateInput
         name="GlobalWebsiteUrl"
-        label="Partner Company Website URL:"
+        label="Company Website URL:"
         validation="required|url"
         validation-name="This field"
         class="required"

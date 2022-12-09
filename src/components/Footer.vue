@@ -5,7 +5,7 @@
         <g-image
           class="logo"
           alt="Logo"
-          src="https://images.pexels.com/photos/261806/pexels-photo-261806.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+          src="../assets/logo.png"
           width="135"
         />
       </g-link>

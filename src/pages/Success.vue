@@ -2,7 +2,7 @@
   <Layout class="success-page">
     <section>
       <h2>Thanks for your submission</h2>
-      <p>Your request is now with the Ivanti Partner team for approval, and your company will be added to the Partner Finder shortly. If any further information is needed, the Partner team will reach out to you.</p>
+      <p>Your request is now with the proper team for approval, and your data will be added shortly. If any further information is needed, the team will reach out to you.</p>
     </section>
   </Layout>
 </template>

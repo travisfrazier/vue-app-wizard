@@ -10,19 +10,19 @@ const formData = {
         },
         {
             value: 414,
-            label: "Asia Pacific",
+            label: "Asia",
         },
         {
             value: 8212,
-            label: "Australia and New Zealand",
+            label: "Australia",
         },
         {
             value: 415,
-            label: "Europe, Middle East, and Africa",
+            label: "Europe",
         },
         {
             value: 413,
-            label: "Latin America",
+            label: "South America",
         },
         {
             value: 412,
@@ -193,40 +193,12 @@ const formData = {
             label: "Hong Kong",
         },
         {
-            value: 451,
-            label: "Hungary",
-        },
-        {
-            value: 452,
-            label: "Iceland",
-        },
-        {
-            value: 453,
-            label: "India",
-        },
-        {
-            value: 454,
-            label: "Indonesia",
-        },
-        {
             value: 455,
             label: "Iran",
         },
         {
             value: 11062,
             label: "Iraq",
-        },
-        {
-            value: 776,
-            label: "Ireland",
-        },
-        {
-            value: 456,
-            label: "Israel",
-        },
-        {
-            value: 457,
-            label: "Italy",
         },
         {
             value: 458,
@@ -347,202 +319,38 @@ const formData = {
         {
             value: 3049,
             label: "Paraguay",
-        },
-        {
-            value: 478,
-            label: "Peru",
-        },
-        {
-            value: 479,
-            label: "Philippines",
-        },
-        {
-            value: 480,
-            label: "Poland",
-        },
-        {
-            value: 481,
-            label: "Portugal",
-        },
-        {
-            value: 482,
-            label: "Puerto Rico",
-        },
-        {
-            value: 1357,
-            label: "Qatar",
-        },
-        {
-            value: 483,
-            label: "Romania",
-        },
-        {
-            value: 484,
-            label: "Russia",
-        },
-        {
-            value: 485,
-            label: "Saudi Arabia",
-        },
-        {
-            value: 13184,
-            label: "Scotland",
-        },
-        {
-            value: 486,
-            label: "Serbia",
-        },
-        {
-            value: 487,
-            label: "Singapore",
-        },
-        {
-            value: 488,
-            label: "Slovakia",
-        },
-        {
-            value: 489,
-            label: "Slovenia",
-        },
-        {
-            value: 491,
-            label: "South Africa",
-        },
-        {
-            value: 777,
-            label: "South Korea",
-        },
-        {
-            value: 490,
-            label: "Spain",
-        },
-        {
-            value: 10122,
-            label: "Sri-Lanka",
-        },
-        {
-            value: 492,
-            label: "Sweden",
-        },
-        {
-            value: 493,
-            label: "Switzerland",
-        },
-        {
-            value: 2421,
-            label: "Taiwan",
-        },
-        {
-            value: 494,
-            label: "Tajikistan",
-        },
-        {
-            value: 495,
-            label: "Thailand",
-        },
-        {
-            value: 496,
-            label: "Turkey",
-        },
-        {
-            value: 497,
-            label: "Turkmenistan",
-        },
-        {
-            value: 499,
-            label: "Uganda",
-        },
-        {
-            value: 500,
-            label: "Ukraine",
-        },
-        {
-            value: 501,
-            label: "United Arab Emirates",
-        },
-        {
-            value: 502,
-            label: "United Kingdom",
-        },
-        {
-            value: 503,
-            label: "United States",
-        },
-        {
-            value: 3051,
-            label: "Uruguay",
-        },
-        {
-            value: 498,
-            label: "Uzbekistan",
-        },
-        {
-            value: 3052,
-            label: "Venezuela",
-        },
-        {
-            value: 504,
-            label: "Vietnam",
         }
     ],
     classifications: [
         {
-            value: 417,
-            label: "Premium Partner",
+            value: 17,
+            label: "Premium Plan",
         },
         {
-            value: 529,
-            label: "Silver Amature Solution Provider",
+            value: 52,
+            label: "Silver Plan",
         },
         {
-            value: 525,
-            label: "Level Three Certified Partner",
+            value: 55,
+            label: "Gold Tier",
         },
         {
-            value: 523,
-            label: "Global Trust Partner",
-        },
-        {
-            value: 524,
-            label: "Gold Resellers",
-        },
-        {
-            value: 530,
-            label: "Commitment Solutions Provider",
-        },
-        {
-            value: 5834,
-            label: "Bronze Resellers",
-        },
-        {
-            value: 528,
-            label: "Internation Recruitment Provider (IRP)",
-        },
-        {
-            value: 521,
-            label: "Distributor",
-        },
-        {
-            value: 526,
-            label: "Managed Business Provider (MBP)",
-        },
-        {
-            value: 5844,
-            label: "Supply Seller",
+            value: 23,
+            label: "Global Tier",
         }
     ],
     categories: [
         {
             value: 12410,
-            label: "IT Assets",
+            label: "IT",
         },
         {
             value: 14392,
-            label: "Cyber Security",
+            label: "Cyber",
         },
         {
             value: 18862,
-            label: "Sales Team",
+            label: "Team List",
         },
         {
             value: 10622,
@@ -550,23 +358,7 @@ const formData = {
         },
         {
             value: 21,
-            label: "Global Sales",
-        },
-        {
-            value: 9769,
-            label: "Service Management",
-        },
-        {
-            value: 38,
-            label: "Regional Security",
-        },
-        {
-            value: 37,
-            label: "Supply and Demand",
-        },
-        {
-            value: 14516,
-            label: "Telecommuting",
+            label: "Global Alliance",
         }
     ]
 }
